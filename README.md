@@ -8,11 +8,8 @@ However in this attempt I have reduced scope of the solution, I will build compl
 
 # The Data
 There were four files availbale initially, I have merged them to make the problem simpler. There are two files available now.
-JobData.csv and 
-location_tree.txt
-
-location_tree.txt has a fairly simple but non-standard format for the a hierarchy of UK locations. 
-JobData.csv contains data for many job posting across varios industries. 
+* JobData.csv :  contains data for many job posting across varios industries.
+* location_tree.txt : has a fairly simple but non-standard format for the a hierarchy of UK locations.
 
 I want to predict SalaryNormalized.
 
